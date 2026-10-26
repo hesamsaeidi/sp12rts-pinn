@@ -1,6 +1,6 @@
 # Temperature or composition? Separating them inside the inversion
 
-Code for the ES-SSA 2026 poster (General Seismology) by Hesam Saeidi. It
+Code for the ES-SSA 2026 poster (P-24) by Hesam Saeidi. It
 fits a physics-informed network to the SP12RTS tomography model and
 measures how much of the mantle two mineral-physics end-members (thermal
 and compositional) can actually explain.
