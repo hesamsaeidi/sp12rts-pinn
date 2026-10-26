@@ -1,0 +1,17 @@
+# model files (see data/README.md) and everything the scripts write
+data/*.nc
+runs/
+*.npz
+*.png
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

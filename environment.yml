@@ -1,0 +1,10 @@
+name: sp12rts-pinn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=2.0
+  - xarray>=2024.1
+  - netcdf4
+  - matplotlib>=3.8
+  - cartopy          # figures A and C of sp12rts_eval.py only
